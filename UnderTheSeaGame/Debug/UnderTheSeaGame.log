@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\documents and settings\compaq_administrator.win_xp\my documents\visual studio 2010\projects\undertheseagame\undertheseagame\main.h(36): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+c:\documents and settings\compaq_administrator.win_xp\my documents\visual studio 2010\projects\undertheseagame\undertheseagame\main.h(689): warning C4305: '+=' : truncation from 'double' to 'float'
+c:\documents and settings\compaq_administrator.win_xp\my documents\visual studio 2010\projects\undertheseagame\undertheseagame\main.h(774): warning C4305: '+=' : truncation from 'double' to 'float'
+c:\documents and settings\compaq_administrator.win_xp\my documents\visual studio 2010\projects\undertheseagame\undertheseagame\main.h(832): warning C4305: '+=' : truncation from 'double' to 'float'
+c:\documents and settings\compaq_administrator.win_xp\my documents\visual studio 2010\projects\undertheseagame\undertheseagame\main.cpp(10): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  UnderTheSeaGame.vcxproj -> c:\documents and settings\compaq_administrator.win_xp\my documents\visual studio 2010\Projects\UnderTheSeaGame\Debug\UnderTheSeaGame.exe
